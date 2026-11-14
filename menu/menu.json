@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Classic Cappuccino",
+    "category": "Espresso Drinks",
+    "description": "Rich espresso shot with perfectly steamed milk and a deep layer of micro-foam.",
+    "base_price": 150.0,
+    "gst_tax_amount": 7.5,
+    "total_price": 157.5,
+    "fssai_food_category_code": "14.1.5",
+    "nutritional_breakdown": {
+      "protein_g": 6,
+      "carbs_g": 9,
+      "fat_g": 6,
+      "total_calories": 114
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Rohan Sharma",
+        "rating": 5,
+        "comment": "Perfect balance of coffee and milk. The foam was smooth and rich."
+      },
+      {
+        "customer_name": "Priya Rawat",
+        "rating": 4,
+        "comment": "Great standard cappuccino, definitely my go-to morning drink here."
+      }
+    ]
+  },
+  {
+    "name": "Cafe Latte",
+    "category": "Espresso Drinks",
+    "description": "Smooth espresso with creamy steamed milk and a light dusting of cocoa.",
+    "base_price": 160.0,
+    "gst_tax_amount": 8.0,
+    "total_price": 168.0,
+    "fssai_food_category_code": "14.1.5",
+    "nutritional_breakdown": {
+      "protein_g": 8,
+      "carbs_g": 12,
+      "fat_g": 8,
+      "total_calories": 152
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Aditya Singh",
+        "rating": 5,
+        "comment": "The latte art is beautiful and the taste is even better."
+      },
+      {
+        "customer_name": "Meera Joshi",
+        "rating": 5,
+        "comment": "Very comforting and perfectly warm for Dehradun winters."
+      }
+    ]
+  },
+  {
+    "name": "Americano",
+    "category": "Espresso Drinks",
+    "description": "Double shot of our house espresso blend poured over hot water.",
+    "base_price": 120.0,
+    "gst_tax_amount": 6.0,
+    "total_price": 126.0,
+    "fssai_food_category_code": "14.1.5",
+    "nutritional_breakdown": {
+      "protein_g": 0,
+      "carbs_g": 1,
+      "fat_g": 0,
+      "total_calories": 4
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Karan Malhotra",
+        "rating": 4,
+        "comment": "Strong and bold, just the way I like it."
+      },
+      {
+        "customer_name": "Sanjana Karki",
+        "rating": 5,
+        "comment": "The beans they use have a lovely fruity note. Excellent Americano."
+      }
+    ]
+  },
+  {
+    "name": "Himalayan Salt Caramel Macchiato",
+    "category": "Espresso Drinks",
+    "description": "Espresso layered with steamed milk, vanilla syrup, and local pink Himalayan salt caramel drizzle.",
+    "base_price": 200.0,
+    "gst_tax_amount": 10.0,
+    "total_price": 210.0,
+    "fssai_food_category_code": "14.1.5",
+    "nutritional_breakdown": {
+      "protein_g": 6,
+      "carbs_g": 25,
+      "fat_g": 7,
+      "total_calories": 187
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Neha Bhatt",
+        "rating": 5,
+        "comment": "The Himalayan salt really elevates the caramel flavor. Absolutely delicious!"
+      },
+      {
+        "customer_name": "Vikram Chauhan",
+        "rating": 4,
+        "comment": "A bit on the sweeter side, but a great treat."
+      }
+    ]
+  },
+  {
+    "name": "Almond Croissant",
+    "category": "Bakery Items",
+    "description": "Flaky, buttery pastry filled with sweet almond frangipane and topped with toasted almonds.",
+    "base_price": 180.0,
+    "gst_tax_amount": 9.0,
+    "total_price": 189.0,
+    "fssai_food_category_code": "7.2.1",
+    "nutritional_breakdown": {
+      "protein_g": 7,
+      "carbs_g": 35,
+      "fat_g": 22,
+      "total_calories": 366
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Ishaan Verma",
+        "rating": 5,
+        "comment": "Crispy on the outside and wonderfully soft inside. Pairs perfectly with the latte."
+      },
+      {
+        "customer_name": "Tanya Kapoor",
+        "rating": 5,
+        "comment": "Best almond croissant in Dehradun, hands down."
+      }
+    ]
+  },
+  {
+    "name": "Banana Walnut Muffin",
+    "category": "Bakery Items",
+    "description": "Freshly baked muffin made with overripe bananas and crunchy hill walnuts.",
+    "base_price": 120.0,
+    "gst_tax_amount": 6.0,
+    "total_price": 126.0,
+    "fssai_food_category_code": "7.2.1",
+    "nutritional_breakdown": {
+      "protein_g": 5,
+      "carbs_g": 42,
+      "fat_g": 18,
+      "total_calories": 350
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Ritu Desai",
+        "rating": 4,
+        "comment": "Moist and not overly sweet. The local walnuts add a nice crunch."
+      },
+      {
+        "customer_name": "Amit Pandey",
+        "rating": 4,
+        "comment": "Great portion size for the price. Very filling."
+      }
+    ]
+  },
+  {
+    "name": "Cinnamon Roll",
+    "category": "Bakery Items",
+    "description": "Warm, gooey cinnamon roll topped with rich cream cheese frosting.",
+    "base_price": 150.0,
+    "gst_tax_amount": 7.5,
+    "total_price": 157.5,
+    "fssai_food_category_code": "7.2.1",
+    "nutritional_breakdown": {
+      "protein_g": 5,
+      "carbs_g": 50,
+      "fat_g": 16,
+      "total_calories": 364
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Siddharth Negi",
+        "rating": 5,
+        "comment": "The cream cheese frosting is out of this world. Served warm too!"
+      },
+      {
+        "customer_name": "Ananya Rajput",
+        "rating": 5,
+        "comment": "A sugary delight. I can't resist getting one every time I visit."
+      }
+    ]
+  },
+  {
+    "name": "Blueberry Scone",
+    "category": "Bakery Items",
+    "description": "Crumbly and buttery traditional scone studded with fresh blueberries.",
+    "base_price": 140.0,
+    "gst_tax_amount": 7.0,
+    "total_price": 147.0,
+    "fssai_food_category_code": "7.2.1",
+    "nutritional_breakdown": {
+      "protein_g": 6,
+      "carbs_g": 45,
+      "fat_g": 14,
+      "total_calories": 330
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Mitali Ahuja",
+        "rating": 4,
+        "comment": "Really good texture. Ask them to warm it up and serve with butter."
+      },
+      {
+        "customer_name": "Rahul Thapa",
+        "rating": 3,
+        "comment": "Good taste but slightly dry. Best enjoyed with a hot cup of tea."
+      }
+    ]
+  },
+  {
+    "name": "Gahat Dal Soup",
+    "category": "Garhwali Cafe Dishes",
+    "description": "A comforting, rustic soup made from traditional Pahari horse gram (Gahat), tempered with wild mustard seeds.",
+    "base_price": 160.0,
+    "gst_tax_amount": 8.0,
+    "total_price": 168.0,
+    "fssai_food_category_code": "16.0",
+    "nutritional_breakdown": {
+      "protein_g": 14,
+      "carbs_g": 30,
+      "fat_g": 4,
+      "total_calories": 212
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Divya Bisht",
+        "rating": 5,
+        "comment": "Tastes just like my grandmother's recipe. So earthy and healthy."
+      },
+      {
+        "customer_name": "Varun Semwal",
+        "rating": 5,
+        "comment": "The wild mustard tempering is fantastic. A unique cafe item!"
+      }
+    ]
+  },
+  {
+    "name": "Mandua Roti & Sisunak Saag",
+    "category": "Garhwali Cafe Dishes",
+    "description": "Finger millet (Mandua) flatbread served alongside traditional nettle leaf (Kandalee/Sisunak) mash with a dollop of ghee.",
+    "base_price": 220.0,
+    "gst_tax_amount": 11.0,
+    "total_price": 231.0,
+    "fssai_food_category_code": "16.0",
+    "nutritional_breakdown": {
+      "protein_g": 10,
+      "carbs_g": 55,
+      "fat_g": 8,
+      "total_calories": 332
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Pradeep Kothiyal",
+        "rating": 5,
+        "comment": "Authentic Pahari food in a modern cafe setting. Incredible flavors."
+      },
+      {
+        "customer_name": "Swati Nautiyal",
+        "rating": 4,
+        "comment": "The Mandua roti is very dense and filling. The nettle saag was surprisingly flavorful."
+      }
+    ]
+  },
+  {
+    "name": "Kandalee Ka Saag Sandwich",
+    "category": "Garhwali Cafe Dishes",
+    "description": "A modern fusion of stinging nettle greens cooked with local spices, sandwiched in toasted multigrain sourdough.",
+    "base_price": 180.0,
+    "gst_tax_amount": 9.0,
+    "total_price": 189.0,
+    "fssai_food_category_code": "16.0",
+    "nutritional_breakdown": {
+      "protein_g": 12,
+      "carbs_g": 40,
+      "fat_g": 15,
+      "total_calories": 343
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Rishabh Pant",
+        "rating": 5,
+        "comment": "I never thought local greens could make such an amazing sandwich filling. 10/10."
+      },
+      {
+        "customer_name": "Kritika Uniyal",
+        "rating": 4,
+        "comment": "Very innovative concept. The sourdough bread was top quality too."
+      }
+    ]
+  },
+  {
+    "name": "Bal Mithai Cheesecake",
+    "category": "Garhwali Cafe Dishes",
+    "description": "New York style cheesecake topped with an authentic Almora Bal Mithai crumble and roasted sugar balls.",
+    "base_price": 250.0,
+    "gst_tax_amount": 12.5,
+    "total_price": 262.5,
+    "fssai_food_category_code": "16.0",
+    "nutritional_breakdown": {
+      "protein_g": 8,
+      "carbs_g": 45,
+      "fat_g": 25,
+      "total_calories": 437
+    },
+    "customer_reviews": [
+      {
+        "customer_name": "Sneha Tiwari",
+        "rating": 5,
+        "comment": "The ultimate fusion dessert. The roasted fudge flavor of Bal Mithai pairs perfectly with the cheese."
+      },
+      {
+        "customer_name": "Gaurav Pokhriyal",
+        "rating": 5,
+        "comment": "A must-try for anyone with a sweet tooth. Creative and delicious."
+      }
+    ]
+  }
+]
